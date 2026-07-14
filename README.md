@@ -1,6 +1,6 @@
 # Hey, I'm Zeth 👋
 
-Junior backend developer, builder of developer tools, and Rust fan. I enjoy turning useful ideas into practical software—from AI-agent tooling and CLIs to desktop apps and automation.
+Junior backend developer, builder of developer tools, and Rust fan. I enjoy turning useful ideas into practical software.
 
 ## What I'm building
 
@@ -19,7 +19,7 @@ Junior backend developer, builder of developer tools, and Rust fan. I enjoy turn
 
 ## Tech I work with
 
-`TypeScript` · `Python` · `C#` · `Rust` · `CLI tools` · `AI agents`
+`TypeScript` · `JavaScript` · `Python` · `C#` · `Rust` · `CLI tools` · `AI agents` 
 
 ## Find me
 
