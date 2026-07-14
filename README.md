@@ -25,6 +25,7 @@ Junior backend developer, builder of developer tools, and Rust fan. I enjoy turn
 
 - GitHub: [@ZethRise](https://github.com/ZethRise)
 - X: [@ZethRise](https://x.com/ZethRise)
+- Telegram: [@ZethRise](https://telegram.me/Diyastom)
 
 ---
 
