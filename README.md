@@ -16,7 +16,7 @@ Junior backend developer, builder of developer tools, and Rust fan. I enjoy turn
 | [SpoofGUI](https://github.com/ZethRise/SpoofGUI) | A Windows GUI client for SNI spoofing and DPI-bypass experimentation. | C# |
 | [PlayDL](https://github.com/ZethRise/PlayDL) | A Telegram bot for downloading Google Play APK files. | Python |
 | [CodeLookup-Skill](https://github.com/ZethRise/CodeLookup-Skill) | An agent skill that encourages broader project-context discovery before making changes. | TypeScript |
-| [Aethery](https://github.com/ZethRise/Aethery) Aether Client for Android. | Kotlin |
+| [Aethery](https://github.com/ZethRise/Aethery) | Aether Client for Android. | Kotlin |
 
 ## Tech I work with
 
